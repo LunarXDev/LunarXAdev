@@ -9,13 +9,9 @@
 
 ## Connect with me:
 
-[<img align="left" alt="miloo-dev.com" width="22px" src="https://raw.githubusercontent/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-[<img align="left" alt="miloo-dev.com" width="22px" src="https://raw.githubusercontent/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-[<img align="left" alt="miloo-dev.com" width="22px" src="https://raw.githubusercontent/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-[<img align="left" alt="miloo-dev.com" width="22px" src="https://raw.githubusercontent/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-[<img align="left" alt="miloo-dev.com" width="22px" src="https://raw.githubusercontent/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="miloo-dev.com" width="22px" src="natariamc.com" />][website]
+[<img align="left" alt="miloo-dev.com" width="22px" src="natariamc.com" />][website]
+[<img align="left" alt="miloo-dev.com" width="22px" src="natariamc.com" />][website]
+[<img align="left" alt="miloo-dev.com" width="22px" src="natariamc.com" />][website]
+[<img align="left" alt="miloo-dev.com" width="22px" src="natariamc.com" />][website]
 
